@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Creating Table with Reflection Ado Net\Creating Table with Reflection Ado Net\obj\Debug\Creating Table with Reflection Ado Net.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Creating Table with Reflection Ado Net\Creating Table with Reflection Ado Net\obj\Debug\Creating Table with Reflection Ado Net.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Creating Table with Reflection Ado Net\Creating Table with Reflection Ado Net\bin\Debug\Creating Table with Reflection Ado Net.exe.config
+C:\Users\Admin\source\repos\Creating Table with Reflection Ado Net\Creating Table with Reflection Ado Net\bin\Debug\Creating Table with Reflection Ado Net.exe
+C:\Users\Admin\source\repos\Creating Table with Reflection Ado Net\Creating Table with Reflection Ado Net\bin\Debug\Creating Table with Reflection Ado Net.pdb
+C:\Users\Admin\source\repos\Creating Table with Reflection Ado Net\Creating Table with Reflection Ado Net\obj\Debug\Creating Table with Reflection Ado Net.exe
+C:\Users\Admin\source\repos\Creating Table with Reflection Ado Net\Creating Table with Reflection Ado Net\obj\Debug\Creating Table with Reflection Ado Net.pdb
